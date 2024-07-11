@@ -8,8 +8,10 @@
 
 - <b>JavaScript Projects</b>
   - [Tiny Javascript Projects](https://github.com/ocuneina/javascript-tiny-projects)
+    ---
 - <b>React Projects</b>
-  - [React Tiny Projects](https://github.com/ocuneina/react-tiny-projects) 
+  - [React Tiny Projects](https://github.com/ocuneina/react-tiny-projects)
+    ---
 
 
 <h2>Coursera Learning Projects</h2>
