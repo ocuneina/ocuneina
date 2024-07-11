@@ -8,11 +8,12 @@
 
 - <b>JavaScript Projects</b>
   - [Tiny Javascript Projects](https://github.com/ocuneina/javascript-tiny-projects)
-    ---
+   
 - <b>React Projects</b>
   - [React Tiny Projects](https://github.com/ocuneina/react-tiny-projects)
-    ---
-
+   
+- <b>MERN project - Mongo DB, Express, React, NodeJS</b>
+  - [Jobify](https://github.com/ocuneina/mern-jobify)
 
 <h2>Coursera Learning Projects</h2>
 
