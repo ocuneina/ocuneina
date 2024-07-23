@@ -10,7 +10,7 @@
   - [Tiny Javascript Projects](https://github.com/ocuneina/javascript-tiny-projects)
    
 - <b>React Projects</b>
-  - [React Tiny Projects](https://github.com/ocuneina/react-tiny-projects)
+  - [React Tiny Projects](https://github.com/ocuneina/React-Projects)
    
 - <b>MERN project - Mongo DB, Express, React, NodeJS</b>
   - [Jobify](https://github.com/ocuneina/mern-jobify)
