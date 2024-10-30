@@ -2,13 +2,13 @@
 
 I'm a passionate Full-Stack Developer with a knack for crafting intuitive and visually stunning user interfaces. I specialize in React for building dynamic and responsive front-ends, but I'm also proficient in various back-end technologies to create fully functional web applications.
 
-#### My Tech Stack:
+### My Tech Stack:
 
-Front-End: React, JavaScript, TypeScript, HTML, CSS, Redux, Next.js
-Back-End: Node.js, Express.js, MongoDB, GraphQL, RESTful APIs
-UI/UX Design: Figma, Sketch
+Front-End: React, JavaScript, TypeScript, HTML, CSS, Redux, Next.js<br/>
+Back-End: Node.js, Express.js, MongoDB, GraphQL, RESTful APIs<br/>
+UI/UX Design: Figma, Sketch<br/>
 
-#### What I'm passionate about:
+### What I'm passionate about:
 
 #### Creating exceptional user experiences:
 
