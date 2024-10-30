@@ -1,30 +1,52 @@
+### Hi there! 👋 I'm Inna
 
+I'm a passionate Full-Stack Developer with a knack for crafting intuitive and visually stunning user interfaces. I specialize in React for building dynamic and responsive front-ends, but I'm also proficient in various back-end technologies to create fully functional web applications.
 
+#### My Tech Stack:
 
+Front-End: React, JavaScript, TypeScript, HTML, CSS, Redux, Next.js
+Back-End: Node.js, Express.js, MongoDB, GraphQL, RESTful APIs
+UI/UX Design: Figma, Sketch
 
-<h1>Hi, I'm Inna <br/><a href="https://github.com/ocuneina">Web Developer</a>, <a href="https://www.linkedin.com/in/inna-ocuneva/">Front-End Developer</a></h1>
+#### What I'm passionate about:
 
-<h2>👨‍💻 Web Development Projects:</h2>
+#### Creating exceptional user experiences:
 
-- <b>JavaScript Projects</b>
+I strive to design and develop user interfaces that are not only beautiful but also easy to use.
+
+#### Staying up-to-date with the latest technologies:
+
+I'm always eager to learn new tools and techniques to improve my skills.
+
+#### Collaborating with talented teams:
+
+I enjoy working with other developers to build amazing products.
+
+#### Check out my projects:
+
+#### 👨‍💻 Web Development Projects:
+
+- ##### JavaScript Projects
   - [Tiny Javascript Projects](https://github.com/ocuneina/javascript-tiny-projects)
-   
-- <b>React Projects</b>
+- ##### React Projects
   - [React Tiny Projects](https://github.com/ocuneina/React-Projects)
-   
-- <b>MERN project - Mongo DB, Express, React, NodeJS</b>
+- ##### MERN project - Mongo DB, Express, React, NodeJS
   - [Jobify](https://github.com/ocuneina/mern-jobify)
 
-<h2>Coursera Learning Projects</h2>
+#### Coursera Learning Projects
 
 - [Coursera AngularJS](https://github.com/ocuneina/coursera-angularjs/tree/main)
 
-  
-<!--
-<h2> - Certifications</h2>
--->
-<!--
-**ocuneina/ocuneina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Let's connect!
+
+- 📫 Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/inna-ocuneva/).
+
+
+  <!--
+  <h2> - Certifications</h2>
+  -->
+  <!--
+  **ocuneina/ocuneina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -36,4 +58,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
